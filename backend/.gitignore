@@ -1,0 +1,22 @@
+# 🔹 Ignorar dependencias de Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# 🔹 Ignorar dependencias de Node.js
+node_modules/
+npm-debug.log
+
+# 🔹 Ignorar entornos de desarrollo
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 🔹 Ignorar archivos sensibles
+.env
+config.json
+*.sqlite
+*.db
